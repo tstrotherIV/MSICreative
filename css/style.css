@@ -5918,7 +5918,7 @@ header .flex-child.flex-right {
   }
 
   .nav--dark .nav__menu>li>a {
-    color: #fff;
+    color: rgb(0, 0, 0);
   }
 
   .nav--dark .nav__menu>li>a:hover {
@@ -5927,11 +5927,11 @@ header .flex-child.flex-right {
 
   /* Transparent Nav */
   .nav--dark .nav__holder {
-    background-color: rgba(0, 0, 0, 0.283);
+    background-color: rgba(255, 255, 255, 0.913);
   }
 
   .nav--dark .nav__holder.sticky {
-    background-color: #111111;
+    background-color: rgba(255, 255, 255, 0.913);
   }
 }
 
